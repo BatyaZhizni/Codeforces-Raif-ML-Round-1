@@ -4,6 +4,6 @@
 
 Команда: Evteev
 
-10 место private
+10 место 
 
 link competition: https://codeforces.com/raif
