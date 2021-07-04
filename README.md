@@ -4,6 +4,6 @@
 
 Команда: Evteev
 
-10 место 
+10 место из 500 участников
 
 link competition: https://codeforces.com/raif
